@@ -8,17 +8,17 @@ Implement a command line based system with at least one way of providing input a
 
 Although any dates specified within the valid date range listed above should work, here are a few test cases to validate the output of your program.
 
-# TEST CASES
-1. 1983-06-02 – 1983-06-22: 19 days
-2. 1984-07-04 – 1984-12-25: 173 days
-3. 1989-01-03 – 1983-08-03: 1979 days
-
 # Assumptions
 - Since the program performs a simple date calculation, there is no need to write web or api application. This is simple java class.
 - No extensive exception handing is required. The program covers basic error handling and validations.
 
 ## Technologies
   1. Java Runtine Environment 1.8
+
+# Test Cases
+1. 1983-06-02 – 1983-06-22: 19 days
+2. 1984-07-04 – 1984-12-25: 173 days
+3. 1989-01-03 – 1983-08-03: 1979 days
 
 ## Instructions
 Program Compile
