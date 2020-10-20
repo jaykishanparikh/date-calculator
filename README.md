@@ -12,7 +12,7 @@ Although any dates specified within the valid date range listed above should wor
 - Since the program performs a simple date calculation, there is no need to write web or api application. This is simple java class.
 - No extensive exception handing is required. The program covers basic error handling and validations.
 
-## Technologies
+# Technologies
   1. Java Runtine Environment 1.8
 
 # Test Cases
@@ -20,7 +20,7 @@ Although any dates specified within the valid date range listed above should wor
 2. 1984-07-04 – 1984-12-25: 173 days
 3. 1989-01-03 – 1983-08-03: 1979 days
 
-## Instructions
+# Instructions
 Program Compile
 
 ```
